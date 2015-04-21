@@ -6,7 +6,7 @@ A website proxy that allows you to modify the DOM on the fly.
 
 ```javascript
 var express = require('express');
-var wedge = require('express-wedge');
+var wedge = require('site-wedge');
 var app = express();
 
 app.use(wedge({
