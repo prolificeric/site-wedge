@@ -6,8 +6,8 @@
   "scripts": {
     "test": "node_modules/.bin/mocha test/*-test.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Eric Weber <eric@prolificinteractive.com>",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.12.2",
     "cheerio": "^0.19.0",
